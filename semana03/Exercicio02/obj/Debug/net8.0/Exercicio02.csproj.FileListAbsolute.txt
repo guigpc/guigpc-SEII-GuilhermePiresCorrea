@@ -1,0 +1,14 @@
+D:\Usuario\Desktop\Exercicio02\bin\Debug\net8.0\Exercicio02.exe
+D:\Usuario\Desktop\Exercicio02\bin\Debug\net8.0\Exercicio02.deps.json
+D:\Usuario\Desktop\Exercicio02\bin\Debug\net8.0\Exercicio02.runtimeconfig.json
+D:\Usuario\Desktop\Exercicio02\bin\Debug\net8.0\Exercicio02.dll
+D:\Usuario\Desktop\Exercicio02\bin\Debug\net8.0\Exercicio02.pdb
+D:\Usuario\Desktop\Exercicio02\obj\Debug\net8.0\Exercicio02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\Desktop\Exercicio02\obj\Debug\net8.0\Exercicio02.AssemblyInfoInputs.cache
+D:\Usuario\Desktop\Exercicio02\obj\Debug\net8.0\Exercicio02.AssemblyInfo.cs
+D:\Usuario\Desktop\Exercicio02\obj\Debug\net8.0\Exercicio02.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Exercicio02\obj\Debug\net8.0\Exercicio02.dll
+D:\Usuario\Desktop\Exercicio02\obj\Debug\net8.0\refint\Exercicio02.dll
+D:\Usuario\Desktop\Exercicio02\obj\Debug\net8.0\Exercicio02.pdb
+D:\Usuario\Desktop\Exercicio02\obj\Debug\net8.0\Exercicio02.genruntimeconfig.cache
+D:\Usuario\Desktop\Exercicio02\obj\Debug\net8.0\ref\Exercicio02.dll
