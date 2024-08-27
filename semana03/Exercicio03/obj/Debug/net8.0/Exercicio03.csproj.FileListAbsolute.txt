@@ -1,0 +1,14 @@
+D:\Usuario\Desktop\Exercicio03\bin\Debug\net8.0\Exercicio03.exe
+D:\Usuario\Desktop\Exercicio03\bin\Debug\net8.0\Exercicio03.deps.json
+D:\Usuario\Desktop\Exercicio03\bin\Debug\net8.0\Exercicio03.runtimeconfig.json
+D:\Usuario\Desktop\Exercicio03\bin\Debug\net8.0\Exercicio03.dll
+D:\Usuario\Desktop\Exercicio03\bin\Debug\net8.0\Exercicio03.pdb
+D:\Usuario\Desktop\Exercicio03\obj\Debug\net8.0\Exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usuario\Desktop\Exercicio03\obj\Debug\net8.0\Exercicio03.AssemblyInfoInputs.cache
+D:\Usuario\Desktop\Exercicio03\obj\Debug\net8.0\Exercicio03.AssemblyInfo.cs
+D:\Usuario\Desktop\Exercicio03\obj\Debug\net8.0\Exercicio03.csproj.CoreCompileInputs.cache
+D:\Usuario\Desktop\Exercicio03\obj\Debug\net8.0\Exercicio03.dll
+D:\Usuario\Desktop\Exercicio03\obj\Debug\net8.0\refint\Exercicio03.dll
+D:\Usuario\Desktop\Exercicio03\obj\Debug\net8.0\Exercicio03.pdb
+D:\Usuario\Desktop\Exercicio03\obj\Debug\net8.0\Exercicio03.genruntimeconfig.cache
+D:\Usuario\Desktop\Exercicio03\obj\Debug\net8.0\ref\Exercicio03.dll
